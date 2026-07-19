@@ -44,6 +44,12 @@ santh
 | **[ziftsieve](https://github.com/santhreal/ziftsieve)** | Search compressed data without full decompression. |
 | **[ebpfkit](https://github.com/santhreal/ebpfkit)** | Kernel-space eBPF JIT pipeline filter compiler. |
 
+## From the blog
+
+- [Seven flaws in the Securly content-filtering extension](https://santh.dev/blog/securly-chrome-extension/) (CERT/CC VU#595768, CVE-2026-8874 and six more)
+- [Meet keyhog: a GPU-accelerated, open-source secret scanner](https://santh.dev/blog/keyhog/)
+- [Pre-authentication session fixation in Vaultwarden SSO](https://santh.dev/blog/vaultwarden-sso-session-fixation/) (CVE-2026-47158)
+
 ## Penetration testing
 
 Human-led engagements run by the people who build these tools. Every engagement is scoped and priced over email: **contact@santh.dev** · [how engagements work](https://santh.dev/pentest/)
